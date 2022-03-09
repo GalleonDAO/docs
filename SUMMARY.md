@@ -24,6 +24,12 @@
   * [🔷 SetSwap](https://www.setswap.xyz)
   * [🦄 Uniswap V3](https://app.uniswap.org/#/swap?inputCurrency=ETH\&outputCurrency=0xbA6a2Fa321BB06D668c5192Be77428106c5C01E5\&chain=optimism)
   * [⚖ TokenSets](https://www.tokensets.com/v2/set/optimism/0xbA6a2Fa321BB06D668c5192Be77428106c5C01E5)
+* [🔹 ETHMAXY](products/ethmaxy/README.md)
+  * [📢 Announcement](https://blog.galleon.community/the-eth-max-yield-index-is-live-on-ethereum-df6dc9bbc5b4)
+  * [🔹 SetSwap](https://www.setswap.xyz/ethmaxy)
+  * [🦄 Uniswap V3](https://app.uniswap.org/#/swap?inputCurrency=eth\&outputCurrency=0x0fe20e0fa9c78278702b05c333cc000034bb69e2\&chain=mainnet)
+  * [⚖ TokenSets](https://www.tokensets.com/v2/set/0x0fe20e0fa9c78278702b05c333cc000034bb69e2)
+  * [💰 Liquidity Rewards](products/ethmaxy/liquidity-rewards.md)
 
 ## Partnerships
 
