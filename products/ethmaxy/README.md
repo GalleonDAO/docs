@@ -41,6 +41,14 @@ You can add liquidity on Sorbet Finance (Gelato):
 
 * [Sorbet finance (G-UNI pool).](https://www.sorbet.finance/#/pools/0x18D53f4953AD14236602DA05eFAfc0Df4f5d064D)&#x20;
 
+## Contracts
+
+* **G-UNI Pool:** [https://etherscan.io/address/0x18D53f4953AD14236602DA05eFAfc0Df4f5d064D](https://etherscan.io/address/0x18D53f4953AD14236602DA05eFAfc0Df4f5d064D)&#x20;
+* **ETHMAXY:** [https://etherscan.io/token/0x0fe20e0fa9c78278702b05c333cc000034bb69e2](https://etherscan.io/token/0x0fe20e0fa9c78278702b05c333cc000034bb69e2)&#x20;
+* **ETHMAXY BaseManager**: [https://etherscan.io/address/0xBc73791909e52119b5Cf47E8Bc22368141373Fce](https://etherscan.io/address/0xBc73791909e52119b5Cf47E8Bc22368141373Fce)&#x20;
+* **FeeSplitExtension:** [https://etherscan.io/address/0x3782148481c75e16105A758134d0b5d939302518](https://etherscan.io/address/0x3782148481c75e16105A758134d0b5d939302518)
+* **ETHMAXY Strategy:** [https://etherscan.io/address/0xB7439f887f0d61A236c8a14c22857684Dc5CD50e](https://etherscan.io/address/0xB7439f887f0d61A236c8a14c22857684Dc5CD50e)
+
 ## Resources
 
 * 📙 [Learn more about Galleon DAO](https://docs.galleon.community)
