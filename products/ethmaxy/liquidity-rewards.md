@@ -2,7 +2,7 @@
 
 ## ETHMAXY Issuance, Staking & Rewards Program
 
-> Liquidity Rewards TLDR
+#### Liquidity Rewards TLDR
 
 > **→** At $1M liquidity — 80% APR
 
