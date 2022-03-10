@@ -30,6 +30,12 @@ The Ethereum Max Yield **** Index follows a strict methodology, it is composed o
 * **Rebalance Interval**: No fixed interval. The product will be rebalanced if the leverage ratio falls due to stETH APY accrued.
 * **Streaming Fee: 1.95**%
 
+#### **Risk**
+
+Naturally, with leveraged positions, there is an inherent risk based on a certain threshold/event. In the case of ETHMAXY the risk of the product is liquidation in the event of a severe de-pegging of stETH to ETH. **Specifically, if stETH reaches a 0.88/ETH ratio.**
+
+Our smart contract has the ability to adjust the leverage ratio in addition to a ripcord function to prevent liquidation risk where possible in the face of negative conditions for the product.
+
 ## Where to Buy:
 
 You can buy the **ETH Max Yield Index** on Ethereum through:
@@ -39,7 +45,7 @@ You can buy the **ETH Max Yield Index** on Ethereum through:
 
 You can add liquidity on Sorbet Finance (Gelato):
 
-* [Sorbet finance (G-UNI pool).](https://www.sorbet.finance/#/pools/0x18D53f4953AD14236602DA05eFAfc0Df4f5d064D)&#x20;
+* [Sorbet Finance (G-UNI pool).](https://www.sorbet.finance/#/pools/0x18D53f4953AD14236602DA05eFAfc0Df4f5d064D)&#x20;
 
 ## Contracts
 
