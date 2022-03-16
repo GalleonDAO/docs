@@ -6,7 +6,7 @@ description: A StETH 3x+ Yield earning token - For all ETH MaxY's pirates!
 
 ![](https://cdn-images-1.medium.com/max/800/0\*gBMWVxwJZ0i4-3k9)
 
-**Galleon DAO & Beverage Finance** are excited to announce the launch of our second collaborative, fully composable, mainnet product, the **ETH Max Yield Index** ($ETHMAXY).
+**Galleon DAO & Beverage Finance** are excited to present our second collaborative, fully composable, mainnet product, the **ETH Max Yield Index** ($ETHMAXY).
 
 ### **Key Facts**
 
