@@ -8,6 +8,33 @@ description: A StETH 3x+ Yield earning token - For all ETH MaxY's pirates!
 
 **Galleon DAO & Beverage Finance** are excited to announce the launch of our second collaborative, fully composable, mainnet product, the **ETH Max Yield Index** ($ETHMAXY).
 
+### **Key Facts**
+
+* Built on Set Protocol
+* Uses Lido for liquid staked Ethereum (stETH) and Aave to leverage the yield using it as collateral
+* 1x ETH spot exposure, 3x+ ETH staked yield exposure represented as a single ERC20 token
+* Tradable with deep liquidity on Uniswap V3
+* Minted with aSTETH (output ETHMAXY) using Set Protocol
+* Redeemed with ETHMAXY & WETH (output aSTETH) using Set Protocol
+
+### Methodology Parameters
+
+Target Leverage Ratio: 3.25
+
+Minimum Leverage Ratio: 3.00
+
+Max Leverage Ratio: 3.30
+
+Rebalance Interval: None, only when leverage ratio moves out of our pre-defined range
+
+### **Key Benefits**
+
+* The product remains as a fully composable token that can be utilised in DeFi
+* Very low barrier to entry (a simple Uniswap trade)
+* Highest staked ETH yield in the DeFi ecosystem
+* Automated leverage management for leveraged staked ETH yield
+* Auto-compounding yield product&#x20;
+
 ## **ETH Max Yield Index ($ETHMAXY)**
 
 The ETH Max Yield Index is a new structured product built natively on the **Ethereum** network to enable traders to gain 3x+ leveraged staked **ETH** yield exposure via **stETH**, through Lido and Aave.
