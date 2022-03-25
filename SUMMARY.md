@@ -39,6 +39,7 @@
 
 * [📓 Purpose](doubloon-token/purpose.md)
 * [🪙 Tokenomics](doubloon-token/tokenomics.md)
+* [🛠 Augmentations](doubloon-token/augmentations.md)
 * [🍣 Buy $DBL](https://app.sushi.com/swap?inputCurrency=eth\&outputCurrency=0xd3f1Da62CAFB7E7BC6531FF1ceF6F414291F03D3)
 * [📈 Trading Chart](https://dexscreener.com/arbitrum/0xcf397ccc47634332bceae42e4be820cc4685fcc8)
 

@@ -6,15 +6,12 @@ description: $DBL
 
 ### **Utility**
 
-* Funding DAO contributors. We aim to stay nimble with contributor count, acting heavily in favour of full-time core contributors in contrast to large working groups of part-time members. We will leverage wider community contributors through paid bounties and grants with clear outcomes.&#x20;
-* Revenue from structured products will initially be accrued back to the DAO treasury under governance control, later down the line we are very interested in exploring fee-sharing utility for DOUBLOON holders, but only after achieving significant growth where the revenue makes sense.&#x20;
+* Funding DAO contributors. Galleon stays nimble with contributor count, acting heavily in favour of full-time core contributors in contrast to large working groups of part-time members. We will leverage wider community contributors through paid bounties and grants with clear outcomes.&#x20;
+* Revenue from structured products is initially accrued back to the DAO treasury under governance control, later down the line we are very interested in exploring fee-sharing utility for DOUBLOON holders, but only after achieving significant growth where the revenue makes sense.&#x20;
 * Product incentivisation schemes, grants & bounties. Incentivisation will be focused on long-tail sticky growth (minting Sets, development bounties, partnerships, bootstrapping product liquidity)&#x20;
 * DOUBLOON holders have the ability to shape how the DAO treasury funds are spent by influencing snapshot votes proposed by the core team.
 
-DOUBLOON will launch as a simple ERC-20 governance token initially, but Galleon is keen to further experiment with token utility as the project progresses.&#x20;
-
-* Buyback mechanism with fee revenue to then re-inject back into incentivisation.
-* Dual token + NFT governance mechanisms.
+DOUBLOON launched as a simple ERC-20 governance token initially, but Galleon is keen to further experiment with token utility as the project progresses.&#x20;
 
 ### Distribution
 
