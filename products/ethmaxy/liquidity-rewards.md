@@ -14,8 +14,6 @@ In this section, we’ll be covering a guide for those who want to **issue ETHMA
 
 The process involves a bit of repetition as we repeatedly mint **ETHMAXY** using **aSTETH**, returning **ETHMAXY** and **WETH**, which represents a debt that is being taken on, that can be swapped to more stETH and repeated. It’s worth noting that when you want to sell you can just sell ETHMAXY through the V3 pool, there is no need to go through a redemption process unless our concentrated V3 liquidity cannot facilitate the trade.
 
-_**Note:** As a small incentive on top of our LP rewards we will cover gas fees up to 2.5% of the minted position e.g. $20,000 of ETHMAXY minted, we will cover up to $500 of your gas fees for LPing_
-
 #### **Step 1**
 
 Own **stETH**, an easy way is using 1inch for direct swapping into stETH on Lido from any asset (routed through ETH).
