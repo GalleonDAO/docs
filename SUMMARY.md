@@ -40,8 +40,8 @@
 * [📓 Purpose](doubloon-token/purpose.md)
 * [🪙 Tokenomics](doubloon-token/tokenomics.md)
 * [🛠 Augmentations](doubloon-token/augmentations.md)
-* [🍣 Buy $DBL](https://app.sushi.com/swap?inputCurrency=eth\&outputCurrency=0xd3f1Da62CAFB7E7BC6531FF1ceF6F414291F03D3)
-* [📈 Trading Chart](https://dexscreener.com/arbitrum/0xcf397ccc47634332bceae42e4be820cc4685fcc8)
+* [🦄 Buy $DBL](https://app.uniswap.org/#/swap?outputCurrency=0xd3f1da62cafb7e7bc6531ff1cef6f414291f03d3\&chain=arbitrum)
+* [📈 Trading Chart](https://dexscreener.com/arbitrum/0x08687dd94b1e084808b549fb5594d6e3d3b7b948)
 
 ## ⚒ Hiring & Contributing
 
