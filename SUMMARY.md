@@ -30,6 +30,7 @@
   * [🦄 Uniswap V3](https://app.uniswap.org/#/swap?inputCurrency=eth\&outputCurrency=0x0fe20e0fa9c78278702b05c333cc000034bb69e2\&chain=mainnet)
   * [⚖ TokenSets](https://www.tokensets.com/v2/set/0x0fe20e0fa9c78278702b05c333cc000034bb69e2)
   * [💰 Liquidity Rewards](products/ethmaxy/liquidity-rewards.md)
+  * [📈 Analytics](https://dune.xyz/galleondao/ETHMAXY-KPIs)
 
 ## Partnerships
 
