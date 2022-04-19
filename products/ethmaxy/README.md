@@ -71,7 +71,7 @@ To understand how the leverage token works, first we will look at how it levers 
 
 The token starts off by supplying stETH as collateral to Aave to be able to borrow back WETH. In order to get the leverage, the protocol trades WETH for stETH using on-chain liquidity on a DEX like Uniswap. Finally, we put the stETH back into Aave and repeat the process to continue levering up the Set through **recursive lending and borrowing.**
 
-Delivering works in a similar way, but in the opposite direction. recursively repaying back WETH debt and removing stETH collateral from Aave.
+Delevering works in a similar way, but in the opposite direction. recursively repaying back WETH debt and removing stETH collateral from Aave.
 
 When somebody mints a new ETHMAXY token, the protocol takes their ETH and levers it to the current leverage ratio (between 3 - 3.30) using the mechanisms described above. When you mint, as opposed to buying the token directly from a DEX, you are going to get some WETH back along with the ETHMAXY token as that is part of the debt you are taking on.&#x20;
 
@@ -79,7 +79,7 @@ If you are buying directly from a DEX, don’t worry about this process, ETHMAXY
 
 ### **Maintaining Leverage**
 
-Naturally, as the value of stETH increases against ETH due to the intrinsic yield, the leverage ratio of ETHMAXY changes. In order to keep the leverage in line, a network of bots monitor the leverage condition and rebalance (using the levering and delivering processes described above) to take back the leverage ratio to a target of 3.25x.&#x20;
+Naturally, as the value of stETH increases against ETH due to the intrinsic yield, the leverage ratio of ETHMAXY changes. In order to keep the leverage in line, a network of bots monitor the leverage condition and rebalance (using the levering and delevering processes described above) to take back the leverage ratio to a target of 3.25x.&#x20;
 
 In the extreme case where the leverage ratio breaks out past the defined bounds of 3x - 3.30x, the protocol has a Ripcord function that engages in an emergency rebalance to bring it back within the bounds. \
 
